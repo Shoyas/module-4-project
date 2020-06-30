@@ -1,0 +1,58 @@
+@media all and (max-width: 1000)
+{
+    .top{
+        width: 100%;
+    }
+    .dream-area{
+        width: 100%;
+    }
+    .experience-area{
+        width: 100%;
+    }
+    .single-experience{
+        height: 80%;
+    }
+    .footer{
+        width: 100%;
+    }
+}
+
+
+@media all and (max-width: 800px)
+{   
+    
+    .top{
+        width: 100%;
+    }
+    .dream-area{
+        width: 100%;
+    }
+    .experience-area{
+        width: 100%;
+    }
+    .footer{
+        width: 100%;
+    }
+
+}
+
+@media all and (max-width: 600px)
+{   
+    
+    .top{
+        width: 100%;
+    }
+    .dream-area{
+        width: 100%;
+    }
+    .experience-area{
+        width: 100%;
+    }
+    .single-experience{
+        height: 100%;
+    }
+    .footer{
+        width: 100%;
+    }
+
+}
